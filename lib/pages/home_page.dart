@@ -63,10 +63,3 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
-
-/*pbcopy < ~/.ssh/id_rsa.pub
-Host kidu
-    HostName 18.197.245.176
-    User ubuntu
-    IdentityFile /Users/selcukerkol/Desktop/kidu_docs/LightsailDefaultKey-eu-central-1 (1).pem
- */
